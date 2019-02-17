@@ -33,7 +33,7 @@ depends=(
 	python-rospkg
 )
 
-_dir="ros-release-release-melodic-roslib-${pkgver}-${_pkgver_patch}"
+_dir="ros-release-release-melodic-roslib"
 source=("${pkgname}-${pkgver}-${_pkgver_patch}.tar.gz"::"https://github.com/ros-gbp/ros-release/archive/release/melodic/roslib/${pkgver}-${_pkgver_patch}.tar.gz")
 sha256sums=('a8766919b22f4a7051cf38d0d6fc7aed3b51b9d57e488a74909afd9732fe5f73')
 
