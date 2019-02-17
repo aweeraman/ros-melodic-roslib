@@ -15,7 +15,7 @@ pkgbase = ros-melodic-roslib
 	depends = ros-melodic-catkin
 	depends = python-rospkg
 	source = ros-melodic-roslib-1.14.4-0.tar.gz::https://github.com/ros-gbp/ros-release/archive/release/melodic/roslib/1.14.4-0.tar.gz
-	sha256sums = 4514a81bab8572abc1ae0a6e03d70c990f65602a7547916c2cdb81615e06ac95
+	sha256sums = a8766919b22f4a7051cf38d0d6fc7aed3b51b9d57e488a74909afd9732fe5f73
 
 pkgname = ros-melodic-roslib
 
